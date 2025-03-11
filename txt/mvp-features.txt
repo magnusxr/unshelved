@@ -1,0 +1,36 @@
+1. User profile:
+    - Users can view their own and other users' profiles.
+    - Users can edit their profile to their liking, change their icon to an image,
+    change the background to a solid color,gradient or static image.
+    - Users can add a short bio (max 200 characters).
+    - Users can change their own username, e-mail and password.
+    - Users can pick their 5 favorite games to showcase on their profile.
+
+2. Gamelog:
+    - Users can search for a game, view its information (name, date of release, developer,
+    publisher, short synopsis), add it to a basic list or wishlist, review it (max 200 characters),
+    add a 1-5 stars rating.
+
+3. Lists:
+    - Users can create basic lists, choose their titles, add a short description (max 200 characters)
+    and add games to it.
+    - Users can change the lists visibility (private or public).
+
+4. Search:
+    - Users can search for game names.
+    - Fuzzy matching to handle typos and slight variations in titles.
+    - Basic filters (platform, basic genre).
+    - Autocompletion.
+
+5. Social:
+    - Users can follow each other.
+    - User can see friends' recent activity (user X logged game Y, user A rated gamed B).
+
+
+## THINK ABOUT USER FLOW ##
+- How do users access other users' profiles? (Search, friend list, activity feed?)
+- How do users add a game to their gamelog? (Search, browse, manual entry?)
+- How do users create and manage lists?
+
+## THINK ABOUT GAME DATA ##
+- What data points are essential for MVP?

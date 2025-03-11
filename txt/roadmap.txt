@@ -1,0 +1,121 @@
+##  PHASE 1  —  IDEATION AND PLANNING  ##
+    - What does it do differently/better?
+
+    - Is there a focus group for games (indie, retro, etc.)?
+
+    - What is the target audience?
+
+    - Technical design:
+        1. Platform choice:
+            - Mobile app (iOS and Android)
+            - Website
+            - Cross-platform
+
+        2. Backend architecture:
+            - How will data be stored and managed?
+            - What database will be used (PostgreSQL, Firebase, etc.)?
+            - Will cloud platform be used (AWS, Google Cloud, Azure)?
+        
+        3. Stacks
+
+    - Feature list:
+        1. Core:
+            - User profile:
+                - View profile
+                - Edit profile
+                - Avatar upload
+                - Change profile background color
+                - Change username
+                - Change e-mail
+                - Change password
+            - Log games
+            - Rate games
+            - Wishlist games
+            - Create basic lists (title, add games)
+            - Search for games
+
+        2. Nice-to-haves:
+            - Full profile personalization
+            - Import achievements from Steam/Epic Games
+            - Badges:
+                - Earned through milestones (number of games played, age of account, etc.)
+                - Display on user profile
+            - Blog / Newsletter
+            - Create custom and collab lists
+            - Track playtime
+            - Personalized game recommendations
+            - Add game completion status (playing, completed, abandoned)
+            - Follow other users
+            - View friends' game libraries, activities, achievements
+            - Like and comment on reviews
+            - Community features:
+                - Create Discord server
+                - Host and join events (game nights, tournaments, etc.)
+            - Monetization:
+                - Patreon:
+                    - Premium features (ad-free experience, advanced analytics, etc.)
+                - Non-invasive ads
+                - Affiliate links
+                - MAYBE:
+                    - in-app purchases (exclusive badges, themes, icon borders)
+            - Expansion:
+                - Support additional languages
+                - Integration with gaming platforms (Steam, Epic Games, etc.)
+
+##  PHASE 2  —  DESIGN AND DEVELOPING  ##
+    - UX:
+        - Wireframing
+        - Prototyping
+        - User testing
+
+    - UI:
+        - Visual design:
+            - Colors
+            - Typography
+            - Imagery
+        - Branding:
+            - Logos
+
+    - Backend development:
+        - Database setup
+        - API development
+        - Server setup
+
+    - Frontend development:
+        - UI implementation
+        - Feature implementation
+        - API integration
+
+    - Game data acquisition
+        - API: IGDB
+
+##  PHASE 3  —  TESTING AND REFINING   ##
+    - Testing:
+        - Unit
+        - Integration
+        - User Acceptance Testing (UAT):
+            - Gather feedback from beta testers
+        - Performance
+        - Security
+
+    - Bug fixing
+
+    - Deployment:
+        - App Stores
+        - Web deployment
+
+    - Launch marketing
+
+##  PHASE 4  —  REFINE AND MAINTENANCE ##
+    - Monitor:
+        - App usage
+        - Performance
+        - User feedback
+
+    - Maintenance:
+        - Fix bugs
+        - Address performance issues
+
+    - Updates
+
+    - Community building
